@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/The Blocks Problem/.vs/The Blocks Problem/v15
+/The Blocks Problem/Debug
+/The Blocks Problem/The Blocks Problem/Debug
